@@ -1,0 +1,1 @@
+/Users/Alex/.splashkit/commands/mcs/SplashKit.cs
